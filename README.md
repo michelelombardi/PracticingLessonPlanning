@@ -1,5 +1,5 @@
-# Lesson Plan Template
-This file serves as the primary lesson plan document for the repository.
+# Lesson Plan: Teaching Loops
+This lesson was made during a CSTA 2024 Conference session.
 
 ## Template Description
 [Click here for more information about what this template repository contains.](TemplateDescription.md)
